@@ -1,7 +1,8 @@
-.footerTextClass{
-color: green;
+.footerTextClass
+{
+	color: green;
 }
-
-.footerDivClass{
-    background-color: yellow;
+.footerDivClass
+{
+	background: yellow;
 }
